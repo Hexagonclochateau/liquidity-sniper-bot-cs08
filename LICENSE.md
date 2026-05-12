@@ -1,4 +1,4 @@
-# 
+# Get the ultimate liquidity sniper bot with vip MEV Bot for liquidity sniper bot | slippage-control & honeypot-detection. Featuring slippage-control and honeypot-detection, it's
 
 
 
